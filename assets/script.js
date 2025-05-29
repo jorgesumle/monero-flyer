@@ -75,8 +75,8 @@ const setPreviewImages = () => {
   const lang = localStorage.getItem("language") || "en"
   const previewLightImage = document.querySelector(".preview-flyer-light img")
   const previewDarkImage = document.querySelector(".preview-flyer-dark img")
-  previewLightImage.src = `./i18n/${lang}/preview-flyer-light.png`
-  previewDarkImage.src = `./i18n/${lang}/preview-flyer-dark.png`
+  previewLightImage.src = `./i18n/${lang}/preview-flyer-light.webp`
+  previewDarkImage.src = `./i18n/${lang}/preview-flyer-dark.webp`
   previewLightImage.alt = `Preview flyer in light mode (${lang})`
   previewDarkImage.alt = `Preview flyer in dark mode (${lang})`
   const previewLightPdfLinks = document.querySelectorAll(
