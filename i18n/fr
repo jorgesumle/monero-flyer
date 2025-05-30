@@ -3,9 +3,9 @@
         "page1": {
             "why_monero_title": "POURQUOI MONERO (XMR)",
             "features": {
-                "private": "PRIVÉ Les trasactions sont entièrement privées, sans historique de transactions public",
+                "private": "PRIVÉ Les transactions sont entièrement privées, sans historique de transactions public",
                 "low_fees": "FRAIS FAIBLES Frais de transaction minimes, ce qui le rend utilisable même pour les petits paiements",
-                "secure": "SÉCURISÉ : Une cryptographie robuste garantit la sécurité de vos fonds et de vos données",
+                "secure": "SÉCURISÉ Une cryptographie robuste garantit la sécurité de vos fonds et de vos données",
                 "unblockable": "INBLOQUABLE Chaque pièce a la même valeur : aucune trace, aucun historique, impossible à blacklister.",
                 "distributed": "DISTRIBUÉ Aucune autorité centrale ne contrôle le réseau, offrant une véritable liberté financière"
             },
