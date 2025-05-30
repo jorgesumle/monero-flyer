@@ -17,7 +17,7 @@
             "website": "www.usexmr.com"
         },
         "page2": {
-            "change_fiat_title": "CHANGE SUSD INTO MONERO",
+            "change_fiat_title": "CHANGE $USD INTO MONERO",
             "steps": {
                 "step1": "STEP 1: Download Cake Wallet or Monero.com wallet",
                 "step2": "STEP 2: Create Your wallet and carefully record the seed phrase provided. Store it securely in a private, safe place!",
