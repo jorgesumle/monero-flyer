@@ -1,8 +1,10 @@
 // script.js
 
+let languages = ["en", "de", "fr", "es"]
 let currentLanguage = localStorage.getItem("language")
 if (!currentLanguage) {
-  currentLanguage = window.navigator.language.includes("de") ? "de" : "en"
+  currentLanguage = window.navigator.language.slice(0, 2)
+  if (!languages.includes(currentLanguage)) currentLanguage = "en"
   localStorage.setItem("language", currentLanguage)
 }
 let currentMode = localStorage.getItem("mode")

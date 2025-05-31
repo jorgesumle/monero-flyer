@@ -6,6 +6,15 @@ Welcome to the official repository for [usexmr.com](https://usexmr.com), a Moner
 
 **usexmr.com** is a non-commercial, community-driven project. Our goal is to make Monero accessible to everyone by providing clear, multilingual information and easy-to-use resources.
 
+## Languages
+
+The flyer and website is already available in following languages:
+
+- English
+- Deutsch
+- Français
+- Español
+
 ## Contributing
 
 We welcome contributions from the Monero community! The easiest way to help is by translating the website into your language.
