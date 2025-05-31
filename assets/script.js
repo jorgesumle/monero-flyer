@@ -1,6 +1,6 @@
 // script.js
 
-let languages = ["en", "de", "fr", "es"]
+let languages = ["en", "de", "fr", "es", "fa"]
 let currentLanguage = localStorage.getItem("language")
 if (!currentLanguage) {
   currentLanguage = window.navigator.language.slice(0, 2)
