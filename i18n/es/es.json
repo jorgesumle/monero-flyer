@@ -17,13 +17,13 @@
             "website": "www.usexmr.com"
         },
         "page2": {
-            "change_fiat_title": "CAMBIA $USD POR MONERO", #You have a typo in original version (SUSD) instead of $USD
+            "change_fiat_title": "CAMBIA $USD POR MONERO",
             "steps": {
                 "step1": "PASO 1: Descarga Cake Wallet o Monero.com wallet.",
                 "step2": "PASO 2: Crea tu billetera y anota cuidadosamente la frase semilla proporcionada. ¡Guárdala de forma segura!",
                 "step3": "PASO 3: Abre la billetera, ve a la sección 'Intercambio' e ingresa la cantidad de dinero que deseas convertir en Monero (XMR). Elige tu método de pago preferido (tarjeta de crédito, transferencia bancaria, SEPA, etc.) y sigue los pasos."
             },
-            "slogan1": "¡LOS PAGOS SON SEGUROS E INMUTABLES!", 
+            "slogan1": "¡LOS PAGOS SON SEGUROS E INMUTABLES!",
             "advantages_title": "VENTAJAS PARA TI COMO USUARIO",
             "advantages": {
                 "privacy": "Privacidad: Cada pago es privado por defecto. ¡Pagas con Monero como pagas con efectivo!",
