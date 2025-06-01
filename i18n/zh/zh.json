@@ -1,0 +1,73 @@
+{
+    "pdf": {
+        "page1": {
+            "why_monero_title": "为什么选择门罗币（XMR）",
+            "features": {
+                "private": "隐私性：交易完全私密，无公开交易记录",
+                "low_fees": "低手续费：交易费用极低，即使小额支付也经济实惠",
+                "secure": "安全性：强大的加密技术确保您的资金和数据安全无虞",
+                "unblockable": "不可封锁：每一枚代币生而平等，无‘污染’或‘黑名单’记录",
+                "distributed": "分布式：无中央机构控制网络，实现真正的财务自由"
+            },
+            "slogan1": "智能手机+钱包=您拥有门罗币",
+            "slogan2": "安全 私密 属于您",
+            "slogan3": "真正的货币",
+            "slogan4": "使用门罗币",
+            "slogan5": "重获财务自由",
+            "website": "www.usexmr.com"
+        },
+        "page2": {
+            "change_fiat_title": "将美元兑换为门罗币",
+            "steps": {
+                "step1": "第一步：下载Cake Wallet或Monero.com钱包",
+                "step2": "第二步：创建钱包并仔细记录提供的种子短语。请将其安全存储在私密、安全的地方！",
+                "step3": "第三步：打开钱包，导航至‘兑换’板块，输入您希望兑换为门罗币（XMR）的金额。选择您偏好的支付方式（如信用卡、银行转账、SEPA等），按步骤操作"
+            },
+            "slogan1": "支付安全且不可篡改！",
+            "advantages_title": "作为用户的您将获得以下优势",
+            "advantages": {
+                "privacy": "隐私性：每笔支付默认私密。使用门罗币支付如同使用现金！",
+                "low_fees": "低手续费：即使大额交易，手续费也极低！",
+                "no_chargebacks": "不可逆转：门罗币交易一旦在区块链上确认，便不可撤销。"
+            },
+            "slogan2": "今天就迈出第一步！",
+            "call_to_action1": "立即使用门罗币，掌控您的财务未来！",
+            "call_to_action2": "门罗币无法被封锁，您可以向全球几乎免费转账，且无人可见！",
+            "call_to_action3": "行动就在此刻！",
+            "website": "www.usexmr.com"
+        }
+    },
+    "website": {
+        "page_language": "中文",
+        "page_title": "使用门罗币 - 重获财务自由",
+        "page_description": "门罗币是一种安全、私密且无法追踪的加密货币。",
+        "page_keywords": "门罗币, 加密货币, 数字现金, 安全交易, 财务自由, 私密, 低手续费, 不可追踪, 可替代性, 去中心化",
+        "title": "使用<br />门罗币",
+        "subtitle": "<span class=\"monero-orange\">重获</span><br />财务<br />自由",
+        "download-light-pdf": "下载浅色PDF",
+        "download-dark-pdf": "下载深色PDF",
+        "title-advantages": "<small>优势</small><br />为 <span class=\"monero-orange\">您</span> 而设",
+        "advantage-privacy": "<strong>隐私性</strong>：每笔支付默认私密。使用门罗币支付如同使用现金！",
+        "advantage-low-fees": "<strong>低手续费</strong>：即使大额交易，手续费也极低！",
+        "advantage-no-chargebacks": "<strong>不可逆转</strong>：交易一旦在区块链上确认，<strong><u>便不可撤销</u></strong>。",
+        "fiat-into-monero-title": "将美元兑换为<span class=\"monero-orange\">门罗币</span>",
+        "fiat-into-monero-step1": "<h3>第一步：</h3><p>下载 <a href=\"https://cakewallet.com/\" target=\"_blank\"><strong class=\"monero-orange\">Cake Wallet</strong></a> 或 <a href=\"https://monero.com/\" target=\"_blank\">Monero.com</a> 钱包。</p>",
+        "fiat-into-monero-step2": "<h3>第二步：</h3><p>创建钱包并仔细记录提供的种子短语。请将其安全存储在私密、安全的地方！</p>",
+        "fiat-into-monero-step3": "<h3>第三步：</h3><p>打开钱包，导航至“<strong>兑换</strong>”板块，输入您希望兑换为<strong>门罗币</strong>（<span class=\"monero-orange\">XMR</span>）的金额。</p><p>选择您偏好的支付方式（如<strong>信用卡</strong>、<strong>银行转账</strong>、<strong>SEPA</strong>等），按步骤操作。</p>",
+        "fiat-into-monero-conclusion": "支付<span class=\"monero-orange\">安全</span>且<span class=\"monero-orange\">不可篡改</span>！",
+        "monero-into-fiat-title": "将<span class=\"monero-orange\">门罗币</span>兑换为美元",
+        "sort-by": "排序方式",
+        "sort-by-comfort": "便捷性",
+        "sort-by-best-privacy": "最佳隐私性",
+        "centralized-exchanges": "中心化交易所",
+        "decentralized-exchanges": "去中心化交易所",
+        "glossary": "术语表",
+        "know-your-customer": "客户身份识别（KYC），指企业对客户进行身份识别以实施监控",
+        "dont-know-your-customer": "免客户身份识别（DKYC），指企业无需对客户进行身份识别",
+        "know-your-customer-light": "轻量级客户身份识别（KYCL），指企业无需对客户进行额外身份识别",
+        "fiat": "法定货币，如欧元、美元、瑞士法郎等",
+        "cex": "中心化交易所（CEX），由企业运营且客户需验证身份的交易所",
+        "dex": "去中心化交易所（DEX），由用户网络运营且客户无需验证身份的交易所",
+        "copyright": "门罗币社区项目<br />一个由门罗币社区发起、服务于社区的独立非商业项目。"
+    }
+}
