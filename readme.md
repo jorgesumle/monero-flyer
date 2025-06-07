@@ -14,6 +14,7 @@ The flyer and website is already available in following languages:
 - Deutsch
 - Français
 - Español
+- Português Brasileiro
 
 ## Contributing
 
