@@ -16,6 +16,7 @@ The flyer and website is already available in following languages:
 - Español
 - Português Brasileiro
 - فارسی
+- 中文
 
 Simply use the language switcher at the top of [usexmr.com](https://usexmr.com).
 
