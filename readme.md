@@ -39,6 +39,12 @@ We welcome contributions from the Monero community! The easiest way to help is b
    Replace the English text with your translation.  
    **Do not change the keys.**
 
+   In the JSON file you will find the following two sections:
+
+   **"pdf"**: all keys here are for the flyer
+
+   **"website"**: all keys here are for the website
+
 5. **Submit a Pull Request:**  
    Commit your changes and open a pull request. Please mention your language in the PR title.
 
