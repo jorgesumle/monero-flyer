@@ -17,6 +17,8 @@ The flyer and website is already available in following languages:
 - Português Brasileiro
 - فارسی
 
+Simply use the language switcher at the top of [usexmr.com](https://usexmr.com).
+
 ## Contributing
 
 We welcome contributions from the Monero community! The easiest way to help is by translating the website into your language.
