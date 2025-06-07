@@ -1,6 +1,8 @@
 // script.js
 
-let languages = ["en", "de", "fr", "es", "fa"]
+// language and mode management
+let languages = ["en", "de", "fr", "es", "pt-br", "fa"]
+let rtlLanguages = ["fa"]
 let currentLanguage = localStorage.getItem("language")
 if (!currentLanguage) {
   currentLanguage = window.navigator.language.slice(0, 2)
@@ -9,9 +11,7 @@ if (!currentLanguage) {
 }
 let currentMode = localStorage.getItem("mode")
 if (!currentMode) {
-  currentMode = window.matchMedia("(prefers-color-scheme: dark)").matches
-    ? "dark"
-    : "light"
+  currentMode = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"
   localStorage.setItem("mode", currentMode)
 }
 
@@ -47,20 +47,12 @@ loadLanguage = async (lang, save = true) => {
   const translations = await response.json()
 
   document.documentElement.lang = lang
-  if (translations.website.page_language)
-    document
-      .querySelector('meta[name="language"]')
-      .setAttribute("content", translations.website.page_language)
-  if (translations.website.page_title)
-    document.title = translations.website.page_title
-  if (translations.website.page_description)
-    document
-      .querySelector('meta[name="description"]')
-      .setAttribute("content", translations.website.page_description)
-  if (translations.website.page_keywords)
-    document
-      .querySelector('meta[name="keywords"]')
-      .setAttribute("content", translations.website.page_keywords)
+  rtlLanguages.includes(lang) ? document.documentElement.setAttribute("dir", "rtl") : document.documentElement.setAttribute("dir", "ltr")
+
+  if (translations.website.page_language) document.querySelector('meta[name="language"]').setAttribute("content", translations.website.page_language)
+  if (translations.website.page_title) document.title = translations.website.page_title
+  if (translations.website.page_description) document.querySelector('meta[name="description"]').setAttribute("content", translations.website.page_description)
+  if (translations.website.page_keywords) document.querySelector('meta[name="keywords"]').setAttribute("content", translations.website.page_keywords)
 
   document.querySelectorAll("[data-i18n]").forEach((el) => {
     const key = el.getAttribute("data-i18n")
@@ -72,7 +64,7 @@ loadLanguage = async (lang, save = true) => {
   setPreviewImages()
 }
 
-// set preview images
+// preview images
 const setPreviewImages = () => {
   const lang = localStorage.getItem("language") || "en"
   const previewLightImage = document.querySelector(".preview-flyer-light img")
@@ -81,16 +73,10 @@ const setPreviewImages = () => {
   previewDarkImage.src = `./i18n/${lang}/preview-flyer-dark.webp`
   previewLightImage.alt = `Preview flyer in light mode (${lang})`
   previewDarkImage.alt = `Preview flyer in dark mode (${lang})`
-  const previewLightPdfLinks = document.querySelectorAll(
-    ".preview-flyer-light a"
-  )
+  const previewLightPdfLinks = document.querySelectorAll(".preview-flyer-light a")
   const previewDarkPdfLinks = document.querySelectorAll(".preview-flyer-dark a")
-  previewLightPdfLinks.forEach((link) => {
-    link.href = `./i18n/${lang}/flyer-light-${lang}.pdf`
-  })
-  previewDarkPdfLinks.forEach((link) => {
-    link.href = `./i18n/${lang}/flyer-dark-${lang}.pdf`
-  })
+  previewLightPdfLinks.forEach((link) => link.href = `./i18n/${lang}/flyer-light-${lang}.pdf`)
+  previewDarkPdfLinks.forEach((link) => link.href = `./i18n/${lang}/flyer-dark-${lang}.pdf`)
 }
 
 // sorting
