@@ -1,7 +1,7 @@
 // script.js
 
 // language and mode management
-let languages = ["en", "de", "fr", "es", "pt-br", "fa"]
+let languages = ["en", "de", "fr", "es", "pt-br", "fa", "zh"]
 let rtlLanguages = ["fa"]
 let currentLanguage = localStorage.getItem("language")
 if (!currentLanguage) {
