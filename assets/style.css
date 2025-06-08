@@ -249,3 +249,8 @@ ul {
     margin-bottom: 0;
   }
 }
+
+select > option {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
