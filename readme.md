@@ -11,12 +11,15 @@ Welcome to the official repository for [usexmr.com](https://usexmr.com), a Moner
 The flyer and website is already available in following languages:
 
 - English
-- Deutsch
-- Français
-- Español
-- Português Brasileiro
-- فارسی
 - 中文
+- Español
+- Русский
+- Português Brasileiro
+- Français
+- Deutsch
+- Türkçe
+- فارسی
+- Slovak
 
 Simply use the language switcher at the top of [usexmr.com](https://usexmr.com).
 
