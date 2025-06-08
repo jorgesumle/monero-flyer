@@ -84,6 +84,10 @@ const categoryOrder = {
   comfort: ["cex", "kyc_light", "atomic", "no_kyc", "dex"],
   privacy: ["atomic", "dex", "no_kyc", "kyc_light", "cex"],
 }
+if (currentLanguage === "fa") {
+  categoryOrder.comfort = ["cex", "no_kyc", "dex", "atomic"]
+  categoryOrder.privacy = ["atomic", "dex", "no_kyc", "cex"]
+}
 
 const sortCategories = (mode) => {
   const exchanges = document.querySelector("#exchanges")
@@ -152,3 +156,17 @@ const observer = new IntersectionObserver((entries) => {
   })
 })
 elements.forEach((el) => observer.observe(el))
+
+// exceptions
+if (currentLanguage === "fa") {
+  const krakenLink = document.querySelector('a[href="https://kraken.com"]')
+  if (krakenLink) {
+    krakenLink.href = "https://nobitex.ir/"
+    krakenLink.textContent = "Nobitex Exchange"
+  }
+  krakenLink.nextElementSibling.remove()
+
+  document.getElementById("kyc_light").remove()
+  document.getElementById("kyc_light-desc").remove()
+  document.getElementById("kyc_light-providers").remove()
+}
