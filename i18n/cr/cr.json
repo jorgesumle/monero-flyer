@@ -1,0 +1,73 @@
+{
+    "pdf": {
+        "page1": {
+            "why_monero_title": "PURKÊ MONERO (XMR)",
+            "features": {
+                "private": "Transakson privadu kompletamente, sen istoria di transakson públiku",
+                "low_fees": "Taxa di transakson bassu, rendi-l kustu-efetivu mesmu pa pagamentu pekenu",
+                "secure": "SEGURU: Kriptografia forti garantil ki bo fundu i dadus sta siguru",
+                "unblockable": "KA BLOKIÁVEL: Tudu moeda igual, sen istoria di ser 'kontaminadu' ou lista-negru",
+                "distributed": "DISTRIBUÍDU: Ningen autoridade sentral kontrola rede, oferse liberdade finansial verdadeiro"
+            },
+            "slogan1": "SMARTPHONE + KARTEIRA = BU TEN MONERO",
+            "slogan2": "SEGURU PRIVADU SEU",
+            "slogan3": "DINHERU VERDADEIRU",
+            "slogan4": "USA MONERO",
+            "slogan5": "OBTEN LIBERDADE FINANSIAL",
+            "website": "www.usexmr.com"
+        },
+        "page2": {
+            "change_fiat_title": "TROKA $USD PA MONERO",
+            "steps": {
+                "step1": "PASSU 1: Deskarga Cake Wallet ou Monero.com karteira",
+                "step2": "PASSU 2: Kria bo karteira i registra kuidadamente frase di semente fornese. Guarda-l siguru num luga privadu i seguru!",
+                "step3": "PASSU 3: Abre karteira, vai pa sektion 'Troka', i entra montante di dineru ki bu misti troka pa Monero (XMR). Skolhe bo metoda di pagamentu preferidu (komo Karta di Kreditu, Transferensia Bankaria, SEPA, etc.) sigi passus"
+            },
+            "slogan1": "PAGAMENTU STA SIGURU I IMUTÁVEL!",
+            "advantages_title": "VANTAJEN PA BU KOMO UZADOR",
+            "advantages": {
+                "privacy": "Privasi: Tudu pagamentu privadu por defeitu. Bu ta paga ku Monero mesmu modi bu ta paga ku dineru!",
+                "low_fees": "Taxa bassu: Taxa di transakson mínimo, mesmu pa montante grand!",
+                "no_chargebacks": "Sen Devoluson: Um vez ki transakson di Monero konfirmadu na blockchain, el podi ka ser revertidu."
+            },
+            "slogan2": "DÁ PRIMEIRU PASSU OJI!",
+            "call_to_action1": "Toma kontrolu di bo futuru finansial oji ku Monero!",
+            "call_to_action2": "Bu podi ka ser blokiadu ku Monero, bu podi manda dineru pa tudu luga na Mundu kuasi di gras i ningen podi odja-l!",
+            "call_to_action3": "Tempu pa age é agora!",
+            "website": "www.usexmr.com"
+        }
+    },
+    "website": {
+        "page_language": "Kriolu",
+        "page_title": "Usa Monero - Obten Liberdade Finansial",
+        "page_description": "Monero é un kriptomoeda seguru, privadu, i intraseavel.",
+        "page_keywords": "Monero, kriptomoeda, dineru digital, transakson seguru, liberdade finansial, privadu, taxa bassu, intraseavel, fungível, desentralizadu",
+        "title": "Usa<br />Monero",
+        "subtitle": "<span class=\"monero-orange\">Obten</span><br />Liberdade<br />Finansial",
+        "download-light-pdf": "Deskarga PDF Klaru",
+        "download-dark-pdf": "Deskarga PDF Skuru",
+        "title-advantages": "<small>Vantajen</small><br />pa <span class=\"monero-orange\">bu</span> komo uzador",
+        "advantage-privacy": "<strong>Privasi</strong>: tudu pagamentu privadu por defeitu. Bu ta paga ku Monero mesmu modi bu ta paga ku dineru!",
+        "advantage-low-fees": "<strong>Taxa Bassu</strong>: taxa di transakson mínimo, mesmu pa montante grand!",
+        "advantage-no-chargebacks": "<strong>Sen Devoluson</strong>: um vez ki transakson di Monero konfirmadu na blockchain, <strong><u>el podi ka ser revertidu</u></strong>.",
+        "fiat-into-monero-title": "Troka $USD pa <span class=\"monero-orange\">Monero</span>",
+        "fiat-into-monero-step1": "<h3>Passu 1:</h3><p>Deskarga <a href=\"https://cakewallet.com/\" target=\"_blank\"><strong class=\"monero-orange\">Cake Wallet</strong></a> ou <a href=\"https://monero.com/\" target=\"_blank\">Monero.com</a> karteira.</p>",
+        "fiat-into-monero-step2": "<h3>Passu 2:</h3><p>Kria bo karteira i registra kuidadamente frase di semente fornese. Guarda-l siguru num luga privadu i seguru!</p>",
+        "fiat-into-monero-step3": "<h3>Passu 3:</h3><p>Abre karteira, vai pa sektion “<strong>Troka</strong>”, i entra montante di dineru ki bu misti troka pa <strong>Monero</strong> (<span class=\"monero-orange\">XMR</span>).</p><p>Skolhe bo metoda di pagamentu preferidu (komo <strong>Karta di Kreditu</strong>, <strong>Transferensia Bankaria</strong>, <strong>SEPA</strong>, etc.) sigi passus.</p>",
+        "fiat-into-monero-conclusion": "Pagamentu sta <span class=\"monero-orange\">siguru</span> i <span class=\"monero-orange\">imutável</span>!",
+        "monero-into-fiat-title": "Troka <span class=\"monero-orange\">Monero</span> pa $USD",
+        "sort-by": "Ordena por",
+        "sort-by-comfort": "Konfortu",
+        "sort-by-best-privacy": "Melhor Privasi",
+        "centralized-exchanges": "Troka Sentralizadu",
+        "decentralized-exchanges": "Troka Desentralizadu",
+        "glossary": "Glossáriu",
+        "know-your-customer": "Konhese Bo Kliente, refere pa identifikason di kliente por empresa pa monitora-l",
+        "dont-know-your-customer": "Ka Konhese Bo Kliente, refere pa ausensia di identifikason di kliente por empresa",
+        "know-your-customer-light": "Konhese Bo Kliente levi, refere pa ausensia di identifikason adicional di kliente por empresa",
+        "fiat": "Moeda Fiat, komo Euro, Dólar Amerikanu, Franku Suísu, etc.",
+        "cex": "Troka Sentralizadu, un troka operadu por un empresa undi kliente ten ki verifika si identidadi",
+        "dex": "Troka Desentralizadu, un troka operadu por un rede di uzador undi kliente ka ten ki verifika si identidadi",
+        "copyright": "Projetu di Komunidade Monero<br />Un projetu independente, ka-komersial por i pa komunidade Monero."
+    }
+}
