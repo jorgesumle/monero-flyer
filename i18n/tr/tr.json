@@ -53,7 +53,7 @@
         "fiat-into-monero-title": "ABD Doları’nı <span class=\"monero-orange\">Monero’yla takas edin</span>",
         "fiat-into-monero-step1": "<h3>Adım 1:</h3><p><a href=\"https://cakewallet.com/\" target=\"_blank\"><strong class=\"monero-orange\">Cake Wallet</strong></a> veya <a href=\"https://monero.com/\" target=\"_blank\">Monero.com</a> cüzdanını indirin.</p>",
         "fiat-into-monero-step2": "<h3>Adım 2:</h3><p>Cüzdanınızı oluşturun ve size verilen tohum kelime dizisini dikkatlice kaydedin. Tohum kelime dizinizi sadece sizin bileceğiniz güvenli bir yerde saklayın!</p>",
-        "fiat-into-monero-step3": "<h3>Adım 3:</h3><p>Cüzdan uygulamasını açın, “<strong>Exchange</strong>” (Takas) bölümüne gidin ve <strong>Monero</strong> (<span class=\"monero-orange\">XMR</span>) için takas etmek istediğiniz parayı ve miktarını girin.</p><p>Tercih ettiğiniz ödeme yöntemini (<strong>Kredi Kartı</strong>, <strong>Banka Havalesi</strong>, <strong>SEPA</strong>, ve benzerini) seçin ve sonraki yönergeleri takip edin.</p>",
+        "fiat-into-monero-step3": "<h3>Adım 3:</h3><p>Cüzdan uygulamasını açın, “<strong>Takas</strong>” bölümüne gidin ve <strong>Monero</strong> (<span class=\"monero-orange\">XMR</span>) için takas etmek istediğiniz parayı ve miktarını girin.</p><p>Tercih ettiğiniz ödeme yöntemini (<strong>Kredi Kartı</strong>, <strong>Banka Havalesi</strong>, <strong>SEPA</strong>, ve benzerini) seçin ve sonraki yönergeleri takip edin.</p>",
         "fiat-into-monero-conclusion": "Ödemeler <span class=\"monero-orange\">güvenlidir</span> ve <span class=\"monero-orange\">değerleriyle asla oynanamaz</span>!",
         "monero-into-fiat-title": "<span class=\"monero-orange\">Monero’yu</span> ABD Doları’yla takas edin",
         "sort-by": "Sıralama",
