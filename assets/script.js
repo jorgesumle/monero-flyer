@@ -170,3 +170,18 @@ if (currentLanguage === "fa") {
   document.getElementById("kyc_light-desc").remove()
   document.getElementById("kyc_light-providers").remove()
 }
+
+if (currentLanguage === "zh") {
+  // load font
+  // <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+  const link = document.createElement("link")
+  link.href = "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap"
+  link.rel = "stylesheet"
+  document.head.appendChild(link)
+  // set font family for body
+  document.body.style.fontFamily = "'Noto Serif SC', serif"
+  // set font family for headings
+  document.querySelectorAll("h1, h2, h3").forEach((el) => {
+    el.style.fontFamily = "'Noto Serif SC', serif"
+  })
+}
