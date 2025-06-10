@@ -25,6 +25,7 @@ The flyer and website is already available in following languages:
 - Valencià
 - Papiamento
 - Kriolu
+- Հայերեն
 
 Simply use the language switcher at the top of [usexmr.com](https://usexmr.com).
 
