@@ -14,12 +14,17 @@ The flyer and website is already available in following languages:
 - 中文
 - Español
 - Русский
+- Português 
 - Português Brasileiro
 - Français
 - Deutsch
 - Türkçe
+- Nederlands
 - فارسی
 - Slovak
+- Valencià
+- Papiamento
+- Kriolu
 
 Simply use the language switcher at the top of [usexmr.com](https://usexmr.com).
 
