@@ -17,11 +17,11 @@
             "website": "www.usexmr.com"
         },
         "page2": {
-            "change_fiat_title": "将美元兑换为门罗币",
+            "change_fiat_title": "将人民币兑换为门罗币",
             "steps": {
                 "step1": "第一步：下载Cake Wallet或Monero.com钱包",
                 "step2": "第二步：创建钱包并仔细记录提供的种子短语。请将其安全存储在私密、安全的地方！",
-                "step3": "第三步：打开钱包，导航至‘兑换’板块，输入您希望兑换为门罗币（XMR）的金额。选择您偏好的支付方式（如信用卡、银行转账、SEPA等），按步骤操作"
+                "step3": "第三步：打开钱包，导航至‘兑换’板块，输入您希望兑换为门罗币（XMR）的金额。选择您偏好的支付方式（如信用卡、银行转账、SEPA等），按步骤操作，并通过银行把美元与人民币互换"
             },
             "slogan1": "支付安全且不可篡改！",
             "advantages_title": "作为用户的您将获得以下优势",
@@ -59,24 +59,15 @@
         "sort-by": "排序方式",
         "sort-by-comfort": "便捷性",
         "sort-by-best-privacy": "最佳隐私性",
-        "atomic-swaps": "原子交换",
         "centralized-exchanges": "中心化交易所",
         "decentralized-exchanges": "去中心化交易所",
-        "no-kyc-services": "无KYC服务",
-        "kyc-light": "轻量级KYC",
         "glossary": "术语表",
-        "glossary-term-kyc": "KYC",
-        "glossary-desc-kyc": "Know Your Customer（KYC），指公司对客户进行身份验证以监控其活动",
-        "glossary-term-no-kyc": "无KYC服务",
-        "glossary-desc-no-kyc": "Don't Know Your Customer（No KYC），指公司不进行客户身份验证",
-        "glossary-term-kyc-light": "KYC轻量级",
-        "glossary-desc-kyc-light": "轻量级KYC，指公司不进行额外的客户身份验证",
-        "glossary-term-fiat": "法币",
-        "glossary-desc-fiat": "法定货币，指由政府发行的货币，如美元、欧元等",
-        "glossary-term-cex": "CEX",
-        "glossary-desc-cex": "中心化交易所，指由单一实体运营的交易平台，用户需要进行身份验证",
-        "glossary-term-dex": "DEX",
-        "glossary-desc-dex": "去中心化交易所，指无需中央控制的交易平台，用户可以直接进行点对点交易",
+        "know-your-customer": "客户身份识别（KYC），指企业对客户进行身份识别以实施监控",
+        "dont-know-your-customer": "免客户身份识别（DKYC），指企业无需对客户进行身份识别",
+        "know-your-customer-light": "轻量级客户身份识别（KYCL），指企业无需对客户进行额外身份识别",
+        "fiat": "法定货币，如人民币、美元、瑞士法郎等",
+        "cex": "中心化交易所（CEX），由企业运营且客户需验证身份的交易所",
+        "dex": "去中心化交易所（DEX），由用户网络运营且客户无需验证身份的交易所",
         "copyright": "门罗币社区项目<br />一个由门罗币社区发起、服务于社区的独立非商业项目。"
     }
 }
