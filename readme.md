@@ -23,6 +23,7 @@ The flyer and website is already available in following languages:
 - Nederlands
 - فارسی
 - Slovak
+- Română
 - Valencià
 - Papiamento
 - Kriolu
