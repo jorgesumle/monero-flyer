@@ -8,7 +8,7 @@ Welcome to the official repository for [usexmr.com](https://usexmr.com), a Moner
 
 ## Languages
 
-The flyer and website is already available in following languages:
+The flyer and website are available in following languages:
 
 - English
 - 中文
