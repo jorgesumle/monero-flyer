@@ -18,6 +18,7 @@ The flyer and website is already available in following languages:
 - Português Brasileiro
 - Français
 - Deutsch
+- Polski
 - Türkçe
 - Nederlands
 - فارسی
