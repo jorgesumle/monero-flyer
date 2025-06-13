@@ -37,17 +37,20 @@ We welcome contributions from the Monero community! The easiest way to help is b
 
 ### How to Translate
 
-1. **Copy the English translation file:**  
+1. **Fork this repository**
+   Just use the botton "Fork" above.
+
+2. **Copy the English translation file:**  
    Go to [`i18n/en/en.json`](i18n/en/en.json) and copy its contents.
 
-2. **Create a new language folder:**  
+3. **Create a new language folder:**  
    Inside the [`i18n`](i18n/) directory, create a new folder named after your language code (e.g., `fr` for French, `es` for Spanish).
 
-3. **Add your translation:**  
+4. **Add your translation:**  
    Paste the copied `en.json` into your new folder and rename it to match your language code (e.g., `fr.json`).  
    Example: `i18n/fr/fr.json`
 
-4. **Translate all values:**  
+5. **Translate all values:**  
    Replace the English text with your translation.  
    **Do not change the keys.**
 
@@ -57,7 +60,7 @@ We welcome contributions from the Monero community! The easiest way to help is b
 
    **"website": {...}** <- all keys here are for the website
 
-5. **Submit a Pull Request:**  
+6. **Submit a Pull Request:**  
    Commit your changes and open a pull request. Please mention your language in the PR title.
 
 Once your pull request is submitted, we will review your translation. If everything looks good, we will generate PDF flyers in both light and dark modes based on your translation. Preview images and the PDFs will be added to your PR before it is merged.
