@@ -37,7 +37,7 @@ We welcome contributions from the Monero community! The easiest way to help is b
 
 ### How to Translate
 
-1. **Fork this repository**
+1. **Fork this repository**  
    Just use the botton "Fork" above.
 
 2. **Copy the English translation file:**  
