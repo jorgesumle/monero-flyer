@@ -38,7 +38,7 @@ We welcome contributions from the Monero community! The easiest way to help is b
 ### How to Translate
 
 1. **Fork this repository:**  
-   Just use the botton "Fork" above.
+   Just [fork it](https://github.com/schmidt1024/monero-flyer/fork) or use the botton "Fork" above.
 
 2. **Copy the English translation file:**  
    Go to [`i18n/en/en.json`](i18n/en/en.json) and copy its contents.
