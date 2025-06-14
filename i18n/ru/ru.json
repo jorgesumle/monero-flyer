@@ -58,7 +58,7 @@
         "where-to-use-monero-title": "Где использовать <span class=\"monero-orange\">Монеро</span>",
         "market-xmrbazaar": "<a href=\"https://xmrbazaar.com\" target=\"_blank\"><strong class=\"monero-orange\">XmrBazaar</strong></a> - пиринговый рынок Монеро",
         "market-monerica": "<a href=\"https://monerica.com\" target=\"_blank\"><strong class=\"monero-orange\">Monerica</strong></a> - каталог для экономики Монеро",
-        "market-map": "<a href=\"https://bank-exit.org/en/map/5/45.7831/3.0824?map%5Bcategory%5D=all&map%5Bcoins%5D%5B%5D=monero&map%5Bsearch%5D=\" target=\"_blank\"><strong class=\"monero-orange\">XMR Map</strong></a> - карта бизнесов, принимающих Монеро",
+        "market-map": "<a href=\"https://bank-exit.org/en/map/2/2.896282656813092/-10.1953125?coins%5B%5D=moneromap%5Bsearch%5D=\" target=\"_blank\"><strong class=\"monero-orange\">XMR Map</strong></a> - карта бизнесов, принимающих Монеро",
         "market-kycnotme": "<a href=\"https://kycnot.me/?currency-mode=or&currencies=xmr\" target=\"_blank\"><strong class=\"monero-orange\">KYCnot.me</strong></a> - список сервисов, поддерживающих Монеро без KYC",
         "where-to-use-monero-conclusion": "Используй <span class=\"monero-orange\">Монеро</span> везде, почти бесплатно, и никто не сможет его увидеть!",
         "monero-into-fiat-title": "Обменяй <span class=\"monero-orange\">Монеро</span> на рубли",
