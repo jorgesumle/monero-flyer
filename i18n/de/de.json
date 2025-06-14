@@ -55,7 +55,7 @@
         "fiat-into-monero-step2": "<h3>Schritt 2:</h3><p>Erstelle eine Wallet und notiere die Seed-Phrase sorgf&auml;ltig auf einem Blatt Papier oder in einem Passwort-Manager (KEINE Screenshots oder Datei in einer Cloud).</p>",
         "fiat-into-monero-step3": "<h3>Schritt 3:</h3><p>&ouml;ffne die Wallet, navigiere zum Bereich „<strong>Exchange</strong>“ und gebe den Betrag ein, der in <strong>Monero</strong> (<span class=\"monero-orange\">XMR</span>) umgetauscht werden soll.</p><p>W&auml;hle die bevorzugte Zahlungsmethode (z. B. <strong>Kreditkarte</strong>, <strong>Bank&uuml;berweisung</strong>, <strong>SEPA</strong> usw.) und folge den Schritten.</p>",
         "fiat-into-monero-conclusion": "Zahlungen sind <span class=\"monero-orange\">sicher</span> und <span class=\"monero-orange\">unveränderlich</span>!",
-        "where-to-use-monero-title": "Wo mit <span class=\"monero-orange\">Monero</span> zahlen",
+        "where-to-use-monero-title": "Wo mit <span class=\"monero-orange\">Monero</span> bezahlen",
         "market-xmrbazaar": "<a href=\"https://xmrbazaar.com\" target=\"_blank\"><strong class=\"monero-orange\">XmrBazaar</strong></a> - ein Peer-to-Peer-Monero-Marktplatz",
         "market-monerica": "<a href=\"https://monerica.com\" target=\"_blank\"><strong class=\"monero-orange\">Monerica</strong></a> - ein Verzeichnis f&uuml;r die Monero-Kreislaufwirtschaft",
         "market-map": "<a href=\"https://bank-exit.org/en/map/2/2.896282656813092/-10.1953125?coins%5B%5D=monero\" target=\"_blank\"><strong class=\"monero-orange\">XMR Map</strong></a> - eine Karte von Monero-freundlichen Gesch&auml;ften",
