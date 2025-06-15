@@ -58,7 +58,7 @@
         "where-to-use-monero-title": "کجا از <span class=\"monero-orange\">مونرو</span> استفاده کنیم",
         "market-xmrbazaar": "<a href=\"https://xmrbazaar.com\" target=\"_blank\"><strong class=\"monero-orange\">XmrBazaar</strong></a> - یک بازار همتا به همتای مونرو",
         "market-monerica": "<a href=\"https://monerica.com\" target=\"_blank\"><strong class=\"monero-orange\">Monerica</strong></a> - یک دایرکتوری برای اقتصاد دایره‌ای مونرو",
-        "market-map": "<a href=\"https://bank-exit.org/en/map/2/2.896282656813092/-10.1953125?coins%5B%5D=moneromap%5Bsearch%5D=\" target=\"_blank\"><strong class=\"monero-orange\">XMR Map</strong></a> - یک نقشه از کسب‌وکارهای دوستدار مونرو",
+        "market-map": "<a href=\"https://bank-exit.org/en/map/2/2.896282656813092/-10.1953125?coins%5B%5D=monero\" target=\"_blank\"><strong class=\"monero-orange\">XMR Map</strong></a> - یک نقشه از کسب‌وکارهای دوستدار مونرو",
         "market-kycnotme": "<a href=\"https://kycnot.me/?currency-mode=or&currencies=xmr\" target=\"_blank\"><strong class=\"monero-orange\">KYCnot.me</strong></a> - یک لیست از خدمات دوستدار مونرو بدون احراز هویت",
         "where-to-use-monero-conclusion": "از <span class=\"monero-orange\">مونرو</span> در همه جا استفاده کن، تقریباً رایگان، و هیچ‌کس نمی‌تواند آن را ببیند!",
         "monero-into-fiat-title": "تبدیل <span class=\"monero-orange\">مونرو</span> به ریال",
