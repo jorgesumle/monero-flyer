@@ -38,7 +38,7 @@
         }
     },
     "website": {
-    "page_language": "Italian",
+    "page_language": "Italiano",
     "page_title": "Usa Monero - Ottieni Libertà Finanziaria",
     "page_description": "Monero è una criptovaluta sicura, privata e non tracciabile.",
     "page_keywords": "Monero, criptovaluta, contante digitale, transazioni sicure, libertà finanziaria, privato, basse commissioni, non tracciabile, fungibile, decentralizzato",
@@ -55,6 +55,12 @@
     "fiat-into-monero-step2": "<h3>Passo 2:</h3><p>Crea il tuo portafoglio e annota attentamente la frase seed fornita. Conservala in un luogo privato e sicuro!</p>",
     "fiat-into-monero-step3": "<h3>Passo 3:</h3><p>Apri il portafoglio, vai alla sezione “<strong>Exchange</strong>” e inserisci l'importo che desideri convertire in <strong>Monero</strong> (<span class=\"monero-orange\">XMR</span>).</p><p>Scegli il metodo di pagamento preferito (come <strong>Carta di Credito</strong>, <strong>Bonifico Bancario</strong>, <strong>SEPA</strong>, ecc.) e segui i passaggi.</p>",
     "fiat-into-monero-conclusion": "I pagamenti sono <span class=\"monero-orange\">sicuri</span> ed <span class=\"monero-orange\">immutabili</span>!",
+    "where-to-use-monero-title": "Where to use <span class=\"monero-orange\">Monero</span>",
+    "market-xmrbazaar": "<a href=\"https://xmrbazaar.com\" target=\"_blank\"><strong class=\"monero-orange\">XmrBazaar</strong></a> - un marketplace peer-to-peer per Monero",
+    "market-monerica": "<a href=\"https://monerica.com\" target=\"_blank\"><strong class=\"monero-orange\">Monerica</strong></a> - un directory per un'economia circolare Monero",
+    "market-map": "<a href=\"https://bank-exit.org/en/map/2/2.896282656813092/-10.1953125?coins%5B%5D=monero\" target=\"_blank\"><strong class=\"monero-orange\">XMR Map</strong></a> - una mappa di attività commerciali amiche di Monero",
+    "market-kycnotme": "<a href=\"https://kycnot.me/?currency-mode=or&currencies=xmr\" target=\"_blank\"><strong class=\"monero-orange\">KYCnot.me</strong></a> - una lista di servizi amiche di Monero senza KYC",
+    "where-to-use-monero-conclusion": "Usa <span class=\"monero-orange\">Monero</span> ovunque, quasi gratuitamente, e nessuno può vederlo!",
     "monero-into-fiat-title": "Converti <span class=\"monero-orange\">Monero</span> in EUR",
     "sort-by": "Ordina per",
     "sort-by-comfort": "Comodità",

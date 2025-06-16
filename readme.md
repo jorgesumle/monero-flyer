@@ -21,6 +21,7 @@ The flyer and website are available in following languages:
 - Polski
 - Türkçe
 - Nederlands
+- Italiano
 - فارسی
 - Slovak
 - Română
