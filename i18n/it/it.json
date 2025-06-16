@@ -1,0 +1,82 @@
+{
+    "pdf": {
+        "page1": {
+            "why_monero_title": "PERCHE' MONERO (XMR)",
+            "features": {
+                "private": "PRIVACY Le transazioni sono completamente private, senza registro pubblico trasparente",
+                "low_fees": "BASSE COMMISSIONI Commissioni di transazione minime, che rendono convenienti anche i piccoli pagamenti",
+                "secure": "SICUREZZA: Una crittografia robusta rende sicuri i vostri dati ed i vostri fondi",
+                "unblockable": "INCENSURABILE Ogni moneta è uguale alle altre, senza alcuna possibilità che venga 'marchiata' o messa in lista nera",
+                "distributed": "DISTRIBUITO Il network non è controllato da una autorità centrale, offrendo così vera libertà finanziaria"
+            },
+            "slogan1": "SMARTPHONE + WALLET = HAI MONERO",
+            "slogan2": "SICURO PRIVATO TUO",
+            "slogan3": "IL VERO DENARO",
+            "slogan4": "USA MONERO",
+            "slogan5": "OTTIENI LIBERTA' FINANZIARIA",
+            "website": "www.usexmr.com"
+        },
+        "page2": {
+            "change_fiat_title": "CAMBIA I TUOI EUR IN MONERO",
+            "steps": {
+                "step1": "STEP 1: Scarica Cake Wallet o Monero.com wallet",
+                "step2": "STEP 2: Crea il tuo portafoglio e annota attentamente la frase seed fornita. Conservala in un luogo privato e sicuro!",
+                "step3": "STEP 3: Apri il portafoglio, naviga nella sezione 'Exchange', e inserisci la quantità di denaro che vuoi convertire in Monero (XMR). Seleziona il tuo metodo di pagamento preferito(come Carta di Credito, Bonifico bancario, SEPA, etc.) e segui tutti i passi necessari"
+            },
+            "slogan1": "I PAGAMENTI SONO SICURI ED IMMUTABILI!",
+            "advantages_title": "VANTAGGI PER TE COME UTENTE",
+            "advantages": {
+                "privacy": "Privacy: Ogni pagamento è privato di default: usando Monero è come se stessi usando il contante!",
+                "low_fees": "Basse Commissioni: Commissioni di transazione minime, anche per grossi importi!",
+                "no_chargebacks": "Nessun Addebito: Una volta che una transazione in Monero è stata confermata sulla blockchain, non può essere annullata."
+            },
+            "slogan2": "FAI OGGI IL PRIMO PASSO!",
+            "call_to_action1": "Prendi il controllo del tuo futuro finanziario con Monero!",
+            "call_to_action2": "Con Monero non puoi essere bloccato, puoi mandare denaro in tutto il Mondo quasi senza commissioni e nessuno lo può vedere!",
+            "call_to_action3": "Il momento di agire è ora!",
+            "website": "www.usexmr.com"
+        }
+    },
+    "website": {
+    "page_language": "Italian",
+    "page_title": "Usa Monero - Ottieni Libertà Finanziaria",
+    "page_description": "Monero è una criptovaluta sicura, privata e non tracciabile.",
+    "page_keywords": "Monero, criptovaluta, contante digitale, transazioni sicure, libertà finanziaria, privato, basse commissioni, non tracciabile, fungibile, decentralizzato",
+    "title": "Usa<br />Monero",
+    "subtitle": "<span class=\"monero-orange\">Ottieni</span><br />Libertà<br />Finanziaria",
+    "download-light-pdf": "Scarica il PDF Chiaro",
+    "download-dark-pdf": "Scarica il PDF Scuro",
+    "title-advantages": "<small>Vantaggi</small><br />per <span class=\"monero-orange\">te</span> come utente",
+    "advantage-privacy": "<strong>Privacy</strong>: Ogni pagamento è privato per impostazione predefinita: usando Monero è come se stessi usando il contante!",
+    "advantage-low-fees": "<strong>Basse Commissioni</strong>: Commissioni di transazione minime, anche per grossi importi!",
+    "advantage-no-chargebacks": "<strong>Nessun Addebito</strong>: una volta che una transazione Monero è confermata sulla blockchain, <strong><u>non può essere annullata</u></strong>.",
+    "fiat-into-monero-title": "Converti EUR in <span class=\"monero-orange\">Monero</span>",
+    "fiat-into-monero-step1": "<h3>Passo 1:</h3><p>Scarica il portafoglio <a href=\"https://cakewallet.com/\" target=\"_blank\"><strong class=\"monero-orange\">Cake Wallet</strong></a> o <a href=\"https://monero.com/\" target=\"_blank\">Monero.com</a>.</p>",
+    "fiat-into-monero-step2": "<h3>Passo 2:</h3><p>Crea il tuo portafoglio e annota attentamente la frase seed fornita. Conservala in un luogo privato e sicuro!</p>",
+    "fiat-into-monero-step3": "<h3>Passo 3:</h3><p>Apri il portafoglio, vai alla sezione “<strong>Exchange</strong>” e inserisci l'importo che desideri convertire in <strong>Monero</strong> (<span class=\"monero-orange\">XMR</span>).</p><p>Scegli il metodo di pagamento preferito (come <strong>Carta di Credito</strong>, <strong>Bonifico Bancario</strong>, <strong>SEPA</strong>, ecc.) e segui i passaggi.</p>",
+    "fiat-into-monero-conclusion": "I pagamenti sono <span class=\"monero-orange\">sicuri</span> ed <span class=\"monero-orange\">immutabili</span>!",
+    "monero-into-fiat-title": "Converti <span class=\"monero-orange\">Monero</span> in EUR",
+    "sort-by": "Ordina per",
+    "sort-by-comfort": "Comodità",
+    "sort-by-best-privacy": "Miglior Privacy",
+    "atomic-swaps": "Atomic Swaps",
+    "centralized-exchanges": "Exchange Centralizzati",
+    "decentralized-exchanges": "Exchange Decentralizzati",
+    "no-kyc-services": "Servizi senza KYC",
+    "kyc-light": "KYC leggero",
+    "glossary": "Glossario",
+    "glossary-term-kyc": "KYC",
+    "glossary-desc-kyc": "Know Your Customer, indica l'identificazione dei clienti da parte delle aziende per monitorarli",
+    "glossary-term-no-kyc": "No KYC",
+    "glossary-desc-no-kyc": "Non conoscere il cliente, indica l'assenza di identificazione del cliente da parte delle aziende",
+    "glossary-term-kyc-light": "KYC leggero",
+    "glossary-desc-kyc-light": "Know Your Customer leggero, indica l'assenza di ulteriori identificazioni del cliente da parte delle aziende",
+    "glossary-term-fiat": "Fiat",
+    "glossary-desc-fiat": "Valuta Fiat, come Euro, Dollaro USA, Franco Svizzero, ecc.",
+    "glossary-term-cex": "CEX",
+    "glossary-desc-cex": "Exchange Centralizzato, un exchange gestito da una società dove i clienti devono verificare la loro identità",
+    "glossary-term-dex": "DEX",
+    "glossary-desc-dex": "Exchange Decentralizzato, un exchange gestito da una rete di utenti dove i clienti non devono verificare la loro identità",
+    "copyright": "Monero Community Project<br />Un progetto indipendente, non commerciale, da e per la comunità Monero."
+    }
+}
